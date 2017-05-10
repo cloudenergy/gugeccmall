@@ -53,6 +53,8 @@
     <a  href="http://zft.gugecc.com/product.html" >智能仪表</a>
     <a href="http://zft.gugecc.com/fangan.html" >方案</a>
     <a href="http://zft.gugecc.com/https://mall.gugecc.com/" >商城</a>
+    <a  href="http://zft.gugecc.com/index.html" >租付通</a>
+    <a  href="http://kj.gugecc.com" >快缴</a>
     <a href="http://zft.gugecc.com/qudao.html" >渠道合作</a>
     <a  href="http://zft.gugecc.com/aboutus.html" >联系我们</a>
     </nav>
