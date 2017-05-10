@@ -19,20 +19,20 @@
 <div class="company layout">
     <h3 class="font-black">合作伙伴</h3>
     <ul class="clearfix">
-        <li><img
-                src="img/aliyun.png"
+        <li><http://zft.gugecc.com/img
+                src="http://zft.gugecc.com/img/aliyun.png"
                 alt="阿里云"></li>
-        <li><img
-                src="img/alipay.png"
+        <li><http://zft.gugecc.com/img
+                src="http://zft.gugecc.com/img/alipay.png"
                 alt="支付宝"></li>
-        <li><img
-                src="img/weixin.png"
+        <li><http://zft.gugecc.com/img
+                src="http://zft.gugecc.com/img/weixin.png"
                 alt="微信支付"></li>
-        <li><img
-                src="img/chinamobile.png"
+        <li><http://zft.gugecc.com/img
+                src="http://zft.gugecc.com/img/chinamobile.png"
                 alt="中国移动"></li>
-        <li class="last"><img
-                src="img/zhaosan.png"
+        <li class="last"><http://zft.gugecc.com/img
+                src="http://zft.gugecc.com/img/zhaosan.png"
                 alt="招商银行"></li>
     </ul>
 </div>
@@ -76,7 +76,7 @@
 
             <div class="qrcode">
                 <p class="title">关注我们</p>
-                <div><img src="img/weixi.jpg" alt="" width="100%"/></div>
+                <div><http://zft.gugecc.com/img src="http://zft.gugecc.com/img/weixi.jpg" alt="" width="100%"/></div>
             </div>
         </div>
 
@@ -97,12 +97,12 @@
         <div class="footerText tc">
          <div class="copyright">浙ICP备12027381号. 版权所有 杭州古鸽信息技术有限公司</div>
            
-                <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><img
-                        src="img/symantec.png" alt="verisign"></a>
-                <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><img
-                        src="img/kexin.png" alt="可信网站"></a>
-                <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><img
-                        src="img/gongan.png" alt="公安"></a>
+                <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><http://zft.gugecc.com/img
+                        src="http://zft.gugecc.com/img/symantec.png" alt="verisign"></a>
+                <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><http://zft.gugecc.com/img
+                        src="http://zft.gugecc.com/img/kexin.png" alt="可信网站"></a>
+                <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><http://zft.gugecc.com/img
+                        src="http://zft.gugecc.com/img/gongan.png" alt="公安"></a>
                 
             </p>
         </div>
