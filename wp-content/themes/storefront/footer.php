@@ -16,7 +16,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="col-full">
-
+            <li> 古鸽信息</li>
 			<?php
 			/**
 			 * Functions hooked in to storefront_footer action
