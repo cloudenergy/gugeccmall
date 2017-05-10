@@ -44,25 +44,25 @@
         <div class="clearfix footNav">
             <div class="footerDl">
                 <dl >
-                    <dt><a href="index-2.html" target="_blank">古鸽信息</a></dt>
-                    <dd><a href="index-2.html" target="_blank">云平台</a></dd>
-                    <dd><a href="index.html" target="_blank">租付通</a></dd>
+                    <dt><a href="http://zft.gugecc.com/index-2.html" target="_blank">古鸽信息</a></dt>
+                    <dd><a href="http://zft.gugecc.com/index-2.html" target="_blank">云平台</a></dd>
+                    <dd><a href="http://zft.gugecc.com/index.html" target="_blank">租付通</a></dd>
                     <dd><a href="http://kj.gugecc.com/" target="_blank">快缴</a></dd>
                 </dl>
                 <dl>
                     <dt>智能仪表</dt>
-                    <dd><a href="product.html" target="_blank">智能电表</a></dd>
-                    <dd><a href="product.html" target="_blank">智能水表</a></dd>
-                    <dd><a href="product.html" target="_blank">智能空调表</a></dd>
+                    <dd><a href="http://zft.gugecc.com/product.html" target="_blank">智能电表</a></dd>
+                    <dd><a href="http://zft.gugecc.com/product.html" target="_blank">智能水表</a></dd>
+                    <dd><a href="http://zft.gugecc.com/product.html" target="_blank">智能空调表</a></dd>
                 </dl>
                 <dl class="lastMargin">
-                    <dt><a href="fangan.html " target="_blank">解决方案</a></dt>
+                    <dt><a href="http://zft.gugecc.com/fangan.html " target="_blank">解决方案</a></dt>
                     <dd>
-                        <a href="fangan.html" target="_blank">数据安全</a>
+                        <a href="http://zft.gugecc.com/fangan.html" target="_blank">数据安全</a>
                     </dd>
-                    <dd><a href="fangan.html" target="_blank">资金安全</a></dd>
+                    <dd><a href="http://zft.gugecc.com/fangan.html" target="_blank">资金安全</a></dd>
                     <dd>
-                        <a href="fangan.html"
+                        <a href="http://zft.gugecc.com/fangan.html"
                            target="_blank" rel="nofollow">应用案例</a></dd>
                     <dd>    
                 </dl>
