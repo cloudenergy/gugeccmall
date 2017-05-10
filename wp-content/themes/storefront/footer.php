@@ -20,19 +20,19 @@
     <h3 class="font-black">合作伙伴</h3>
     <ul class="clearfix">
         <li><img
-                src="http://9kpu.kuaileapp.com/aliyun.png"
+                src="http://9kpu.kuaileapp.com/img/aliyun.png"
                 alt="阿里云"></li>
         <li><img
-                src="http://9kpu.kuaileapp.com/alipay.png"
+                src="http://9kpu.kuaileapp.com/img/alipay.png"
                 alt="支付宝"></li>
         <li><img
-                src="http://9kpu.kuaileapp.com/weixin.png"
+                src="http://9kpu.kuaileapp.com/img/weixin.png"
                 alt="微信支付"></li>
         <li><img
-                src="http://9kpu.kuaileapp.com/chinamobile.png"
+                src="http://9kpu.kuaileapp.com/img/chinamobile.png"
                 alt="中国移动"></li>
         <li class="last"><img
-                src="http://9kpu.kuaileapp.com/zhaosan.png"
+                src="http://9kpu.kuaileapp.com/img/zhaosan.png"
                 alt="招商银行"></li>
     </ul>
 </div>
@@ -76,7 +76,7 @@
 
             <div class="qrcode">
                 <p class="title">关注我们</p>
-                <div><img src="http://9kpu.kuaileapp.com/weixi.jpg" alt="" width="100%"/></div>
+                <div><img src="http://9kpu.kuaileapp.com/img/weixi.jpg" alt="" width="100%"/></div>
             </div>
         </div>
 
@@ -98,11 +98,11 @@
          <div class="copyright">浙ICP备12027381号. 版权所有 杭州古鸽信息技术有限公司</div>
            
                 <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><img
-                        src="http://9kpu.kuaileapp.com/symantec.png" alt="verisign"></a>
+                        src="http://9kpu.kuaileapp.com/img/symantec.png" alt="verisign"></a>
                 <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><img
-                        src="http://9kpu.kuaileapp.com/kexin.png" alt="可信网站"></a>
+                        src="http://9kpu.kuaileapp.com/img/kexin.png" alt="可信网站"></a>
                 <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><img
-                        src="http://9kpu.kuaileapp.com/gongan.png" alt="公安"></a>
+                        src="http://9kpu.kuaileapp.com/img/gongan.png" alt="公安"></a>
                 
             </p>
         </div>
