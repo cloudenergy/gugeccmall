@@ -13,6 +13,31 @@
 	</div><!-- #content -->
 
 	<?php do_action( 'storefront_before_footer' ); ?>
+	<div class="line"></div>
+  
+<div class="space"></div>
+<div class="company layout">
+    <h3 class="font-black">合作伙伴</h3>
+    <ul class="clearfix">
+        <li><img
+                src="img/aliyun.png"
+                alt="阿里云"></li>
+        <li><img
+                src="img/alipay.png"
+                alt="支付宝"></li>
+        <li><img
+                src="img/weixin.png"
+                alt="微信支付"></li>
+        <li><img
+                src="img/chinamobile.png"
+                alt="中国移动"></li>
+        <li class="last"><img
+                src="img/zhaosan.png"
+                alt="招商银行"></li>
+    </ul>
+</div>
+
+<div class="space"></div>
 
 <div id="newfooter">
     <div class="layout">
