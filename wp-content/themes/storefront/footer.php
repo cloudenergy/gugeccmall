@@ -14,20 +14,75 @@
 
 	<?php do_action( 'storefront_before_footer' ); ?>
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="col-full">
-            <li> 古鸽信息</li>
-			<?php
-			/**
-			 * Functions hooked in to storefront_footer action
-			 *
-			 * @hooked storefront_footer_widgets - 10
-			 * @hooked storefront_credit         - 20
-			 */
-			do_action( 'storefront_footer' ); ?>
+<div id="newfooter">
+    <div class="layout">
+        <div class="clearfix footNav">
+            <div class="footerDl">
+                <dl >
+                    <dt><a href="index-2.html" target="_blank">古鸽信息</a></dt>
+                    <dd><a href="index-2.html" target="_blank">云平台</a></dd>
+                    <dd><a href="index.html" target="_blank">租付通</a></dd>
+                    <dd><a href="http://kj.gugecc.com/" target="_blank">快缴</a></dd>
+                </dl>
+                <dl>
+                    <dt>智能仪表</dt>
+                    <dd><a href="product.html" target="_blank">智能电表</a></dd>
+                    <dd><a href="product.html" target="_blank">智能水表</a></dd>
+                    <dd><a href="product.html" target="_blank">智能空调表</a></dd>
+                </dl>
+                <dl class="lastMargin">
+                    <dt><a href="fangan.html " target="_blank">解决方案</a></dt>
+                    <dd>
+                        <a href="fangan.html" target="_blank">数据安全</a>
+                    </dd>
+                    <dd><a href="fangan.html" target="_blank">资金安全</a></dd>
+                    <dd>
+                        <a href="fangan.html"
+                           target="_blank" rel="nofollow">应用案例</a></dd>
+                    <dd>    
+                </dl>
+            </div>
 
-		</div><!-- .col-full -->
-	</footer><!-- #colophon -->
+            <div class="cantactUS">
+                <p class="title">客服专线</p>
+                <h1>0571-86996727</h1>
+                <p class="tips">（客服服务时间：9:00-18:00）</p>
+            </div>
+
+            <div class="qrcode">
+                <p class="title">关注我们</p>
+                <div><img src="img/weixi.jpg" alt="" width="100%"/></div>
+            </div>
+        </div>
+
+        <div class="line"></div>
+               <div class="frindLink">
+                <div class="title">友情链接：</div>
+                <div class="link">
+                    <ul>
+                        <li><a href="http://www.gugecc.com/" target="_blank" >古鸽信息</a></li>
+                        <li><a href="http://kj.gugecc.com/" target="_blank" >快缴</a></li>
+                        <li><a href="http://www.liuliangbao.cn/" target="_blank" >流量宝</a></li>
+                        <li><a href="http://www.basic.com.cn" target="_blank" >柏诚智能</a></li>
+                        <li><a href="http://www.china-yintai.com" target="_blank" >银泰城</a></li>
+                    </ul>
+                </div>
+            </div>
+                <div class="line"></div>
+        <div class="footerText tc">
+         <div class="copyright">浙ICP备12027381号. 版权所有 杭州古鸽信息技术有限公司</div>
+           
+                <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><img
+                        src="img/symantec.png" alt="verisign"></a>
+                <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><img
+                        src="img/kexin.png" alt="可信网站"></a>
+                <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><img
+                        src="img/gongan.png" alt="公安"></a>
+                
+            </p>
+        </div>
+    </div>
+</div>
 
 	<?php do_action( 'storefront_after_footer' ); ?>
 
