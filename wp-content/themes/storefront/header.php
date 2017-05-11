@@ -49,10 +49,10 @@
   <div class="container"><a class="logo" href="index.html"></a>
     <div class="login-box"><a class=""  ><img class="telpng" src="img/style/phone.png">0571-86996727</a><a class="btn-white btn" target="_blank"  href="http://wpa.qq.com/msgrd?v=3&amp;uin=3066119618&amp;site=qq&amp;menu=yes" >在线咨询</a></div>
     <nav class="w-navbar">
-    <a class="curr" href="http://zft.gugecc.com/index-2.html">首页</a>
+    <a  href="http://zft.gugecc.com/index-2.html">首页</a>
     <a  href="http://zft.gugecc.com/product.html" >智能仪表</a>
     <a href="http://zft.gugecc.com/fangan.html" >方案</a>
-    <a href="http://zft.gugecc.com/https://mall.gugecc.com/" >商城</a>
+    <a  class="curr"  href="https://mall.gugecc.com/" >商城</a>
     <a  href="http://zft.gugecc.com/index.html" >租付通</a>
     <a  href="http://kj.gugecc.com" >快缴</a>
     <a href="http://zft.gugecc.com/qudao.html" >渠道合作</a>
