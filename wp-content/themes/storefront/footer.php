@@ -75,7 +75,7 @@
 
                 <div class="qrcode">
                     <p class="title">关注我们</p>
-                    <div><img src="img/weixi.jpg" alt="" width="100%" /></div>
+                    <div><img src="http://zft.gugecc.com/img/weixi.jpg" alt="" width="100%" /></div>
                 </div>
             </div>
 
