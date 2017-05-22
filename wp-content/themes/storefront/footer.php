@@ -96,9 +96,9 @@
             <div class="footerText tc">
                 <div class="copyright">浙ICP备12027381号. 版权所有 杭州古鸽信息技术有限公司</div>
 
-                <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><img src="img/symantec.png" alt="verisign"></a>
-                <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><img src="img/kexin.png" alt="可信网站"></a>
-                <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><img src="img/gongan.png" alt="公安"></a>
+                <a style="margin-left:25px;" href="http://www.verisign.com/" rel="nofollow" target="_blank"><img src="http://zft.gugecc.com/img/symantec.png" alt="verisign"></a>
+                <a href="http://t.knet.cn/index_new.jsp" rel="nofollow" target="_blank"><img src="http://zft.gugecc.com/img/kexin.png" alt="可信网站"></a>
+                <a href="http://www.mps.gov.cn/n16/index.html?_v=1442896797517" rel="nofollow" target="_blank"><img src="http://zft.gugecc.com/img/gongan.png" alt="公安"></a>
 
                 </p>
             </div>
