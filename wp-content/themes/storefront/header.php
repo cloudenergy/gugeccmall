@@ -50,7 +50,12 @@
     <div class="login-box"><a class=""  ><img class="telpng" src="http://zft.gugecc.com/img/style/phone.png">0571-86996727</a><a class="btn-white btn" target="_blank"  href="http://wpa.qq.com/msgrd?v=3&amp;uin=3066119618&amp;site=qq&amp;menu=yes" >在线咨询</a></div>
     <nav class="w-navbar">
     <a  href="http://zft.gugecc.com/index.html">首页</a>
-    <a  href="http://zft.gugecc.com/product.html" >产品</a>
+    <div class="scheme">产品
+                    <ul class="scheme-list">
+                        <li><a href="http://zft.gugecc.com/cloudmeter.html">云控电表</a></li>
+                        <li><a href="http://zft.gugecc.com/product.html">智慧云能源</a></li>
+                    </ul>
+                </div>
     <div class="scheme">方案
         <ul class="scheme-list" style="padding-top: 22px">
             <li><a href="http://zft.gugecc.com/application.html">应用实现</a></li>
