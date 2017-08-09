@@ -51,7 +51,7 @@
     <nav class="w-navbar">
     <a  href="http://zft.gugecc.com/index.html">首页</a>
     <div class="scheme">产品
-                    <ul class="scheme-list">
+                    <ul class="scheme-list" style="padding-top: 22px">
                         <li><a href="http://zft.gugecc.com/cloudmeter.html">云控电表</a></li>
                         <li><a href="http://zft.gugecc.com/product.html">智慧云能源</a></li>
                     </ul>
@@ -60,6 +60,7 @@
         <ul class="scheme-list" style="padding-top: 22px">
             <li><a href="http://zft.gugecc.com/application.html">应用实现</a></li>
             <li><a href="http://zft.gugecc.com/safe.html">数据安全</a></li>
+			<li><a href="http://zft.gugecc.com/case.html">项目案例</a></li>
         </ul>
     </div>
     <a  class="curr"  href="https://mall.gugecc.com/" >商城</a>
