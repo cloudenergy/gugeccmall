@@ -46,28 +46,28 @@
 	</header><!-- #masthead -->
 
 <header class="w-header transparent">
-  <div class="container"><a class="logo" href="http://zft.gugecc.com/index.html"></a>
-    <div class="login-box"><a class=""  ><img class="telpng" src="http://zft.gugecc.com/img/style/phone.png">0571-86996727</a><a class="btn-white btn" target="_blank"  href="http://wpa.qq.com/msgrd?v=3&amp;uin=3066119618&amp;site=qq&amp;menu=yes" >在线咨询</a></div>
+  <div class="container"><a class="logo" href="http://www.gugecc.com/index.html"></a>
+    <div class="login-box"><a class=""  ><img class="telpng" src="http://www.gugecc.com/img/style/phone.png">0571-86996727</a><a class="btn-white btn" target="_blank"  href="http://wpa.qq.com/msgrd?v=3&amp;uin=3066119618&amp;site=qq&amp;menu=yes" >在线咨询</a></div>
     <nav class="w-navbar">
-    <a  href="http://zft.gugecc.com/index.html">首页</a>
+    <a  href="http://www.gugecc.com/index.html">首页</a>
     <div class="scheme">产品
                     <ul class="scheme-list" style="padding-top: 22px">
-                        <li><a href="http://zft.gugecc.com/cloudmeter.html">云控电表</a></li>
-                        <li><a href="http://zft.gugecc.com/product.html">智慧云能源</a></li>
+                        <li><a href="http://www.gugecc.com/cloudmeter.html">云控电表</a></li>
+                        <li><a href="http://www.gugecc.com/product.html">智慧云能源</a></li>
                     </ul>
                 </div>
     <div class="scheme">方案
         <ul class="scheme-list" style="padding-top: 22px">
-            <li><a href="http://zft.gugecc.com/application.html">应用实现</a></li>
-            <li><a href="http://zft.gugecc.com/safe.html">数据安全</a></li>
-			<li><a href="http://zft.gugecc.com/case.html">项目案例</a></li>
+            <li><a href="http://www.gugecc.com/application.html">应用实现</a></li>
+            <li><a href="http://www.gugecc.com/safe.html">数据安全</a></li>
+			<li><a href="http://www.gugecc.com/case.html">项目案例</a></li>
         </ul>
     </div>
     <a  class="curr"  href="https://mall.gugecc.com/" >商城</a>
-    <a  href="http://zft.gugecc.com/zft.html" >租付通</a>
-    <a  href="http://zft.gugecc.com/kj.html" >快缴</a>
-    <a href="http://zft.gugecc.com/market.html" >市场合作</a>
-    <a  href="http://zft.gugecc.com/aboutus.html" >联系我们</a>
+    <a  href="http://www.gugecc.com/zft.html" >租付通</a>
+    <a  href="http://www.gugecc.com/kj.html" >快缴</a>
+    <a href="http://www.gugecc.com/market.html" >市场合作</a>
+    <a  href="http://www.gugecc.com/aboutus.html" >联系我们</a>
     </nav>
   </div>
 </header>
